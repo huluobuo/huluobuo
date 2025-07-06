@@ -1,13 +1,10 @@
-<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
+<svg width="47" height="47" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient y2="100%" x2="100%" y1="0%" x1="0%" id="hexGradient">
-   <stop stop-color="#4A90E2" offset="0%"/>
-   <stop stop-color="#00599C" offset="100%"/>
-  </linearGradient>
+  
  </defs>
  <g>
   <title _mstHash="1" _mstTextHash="5637814">第 1 层</title>
-  <path stroke="#FFFFFF" id="svg_1" stroke-width="1.5" fill="url(#hexGradient)" d="m24.21233,0.82857l-21.58935,9.97724l0,26.45128l21.58935,9.97724l21.58935,-9.97724l0,-26.45128l-21.58935,-9.97724z"/>
+  <path stroke="#FFFFFF" id="svg_1" stroke-width="1.5" fill="#1976d2" d="m24.21233,0.82857l-21.58935,9.97724l0,26.45128l21.58935,9.97724l21.58935,-9.97724l0,-26.45128l-21.58935,-9.97724z"/>
   <path opacity="0.25" id="svg_3" d="m3.34759,36.69938l20.78296,-7.04627l20.78296,7.04627l-41.56592,0z" stroke-width="0" stroke="#000" fill="#000000"/>
   <line stroke-width="0.3" opacity="0.45" id="svg_6" y2="29.68013" x2="24.51635" y1="36.50093" x1="3.39883" stroke="#FFFFFF" fill="none"/>
   <path transform="rotate(-144 34.8439 33.1676)" opacity="0.45" filter="url(#svg_7_blur)" id="svg_7" d="m24.28514,36.57801l21.11752,-6.82081" stroke-width="0.3" stroke="#FFFFFF" fill="none"/>
