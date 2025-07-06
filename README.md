@@ -10,3 +10,9 @@
 ## 🔗 链接
 
 - [huluobuo.github.io](https://huluobuo.github.io/ "我的个人主页")      （使用 [GitHub Pages](https://pages.github.com/) 构建）
+
+## 暑假计划
+
+- 1. 玩玩游戏
+- 2. 写写程序
+- 3. 发点文章
